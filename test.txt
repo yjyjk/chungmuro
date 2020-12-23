@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-test yoonju
-=======
-test
-
-test
->>>>>>> d365e304ddb156b6948ad0e6799ba717f531ebea
+뭐야 무서워
